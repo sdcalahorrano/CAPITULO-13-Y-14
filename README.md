@@ -35,17 +35,38 @@ OBJETIVOS ESPECIFICOS
 SECCIÓN 13–1 El inductor básico
 
 1. Convierta los siguientes valores en milihenries:
+
+![image](https://user-images.githubusercontent.com/105056762/217708389-1b3d2fb3-14f1-42d9-bca2-c8108bb35ba8.png)
+
 3. ¿Cuál es el voltaje en una bobina cuando di/dt = 10 mA/µs y L = 5 µH?
+
+![image](https://user-images.githubusercontent.com/105056762/217708496-736ed5fe-08c8-4c79-a4d3-5c37ed198242.png)
+
 5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
+
+![image](https://user-images.githubusercontent.com/105056762/217708554-43b94721-6c8d-4c9f-96d2-cec4b8bade16.png)
+
 7. ¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?
+
+![image](https://user-images.githubusercontent.com/105056762/217708561-0f16fcd9-717e-4800-8317-344e57f0ad26.png)
+
 9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa = 150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa = 200).
+
+![image](https://user-images.githubusercontent.com/105056762/217708590-2c38d9da-5d0c-4528-b44e-26e9b06b05f4.png)
 
 SECCIÓN 13–3 Inductores en serie y en paralelo
 
 11. Se conectan cinco inductores en serie. El valor más bajo es de 5 µH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
+
+
 13. Determine la inductancia total en la figura 13-44. 
+
+
 15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 µH, 50 µH, 25 µH, y 15 µH.
+
+
 17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.
+
 
 SECCIÓN 13–4 Inductores en circuitos de cd
 
