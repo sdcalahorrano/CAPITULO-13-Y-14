@@ -156,32 +156,47 @@ SECCIÓN 14–5 Carga reflejada
 
 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Ω en el circuito primario?
 
+![image](https://user-images.githubusercontent.com/105056762/217710286-b4311aa7-1ce6-4cec-90ca-55193100a91b.png)
 
 SECCIÓN 14–6 Igualación de impedancia
 
 19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Ω?
 
+![image](https://user-images.githubusercontent.com/105056762/217710333-cc16c9d4-022f-429d-a309-4db1a1b3b3b2.png)
 
 SECCIÓN 14–7 Características de un transformador no ideal
 
 21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 
+![image](https://user-images.githubusercontent.com/105056762/217710370-b908d237-bdd8-44be-a08f-98eb90cd93be.png)
 
 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
 
+![image](https://user-images.githubusercontent.com/105056762/217710388-f98f0741-d885-42d4-a2ed-d95b2d9848c8.png)
 
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 
+![image](https://user-images.githubusercontent.com/105056762/217710410-70faea9d-c833-42a3-a4fa-871a904f38e7.png)
 
 SECCIÓN 14–8 Transformadores con tomas y devanados múltiples
 
 27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+
+![image](https://user-images.githubusercontent.com/105056762/217710673-36bda2dc-b9e3-49c9-9e7b-c3f12aca5f2d.png)
+
 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
+
+![image](https://user-images.githubusercontent.com/105056762/217710738-df6082b2-6870-41b6-bd58-3628ec4c311c.png)
+
 31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/105056762/217710873-6804ad2c-5a3d-45dd-bff8-a8976dd277ea.png)
 
 SECCIÓN 14–9 Localización de fallas
 
 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+
+![image](https://user-images.githubusercontent.com/105056762/217710898-26edffad-e55e-4440-a04f-8267db7df07d.png)
 
 # 4. VIDEO
 
