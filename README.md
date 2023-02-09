@@ -200,6 +200,8 @@ SECCIÓN 14–9 Localización de fallas
 
 # 4. VIDEO
 
+https://youtu.be/2FXEiGkOho4
+
 # 5. CONCLUSIONES
 
 - La operación del transformador se basa en el principio de inductancia mutua, la cual ocurre si dos o más bobinas están muy cercanas una de otra.
